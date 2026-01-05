@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "408291421876",
+    "project_id": "upcycle-a0c81",
+    "storage_bucket": "upcycle-a0c81.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408291421876:android:e6fa2b30bbc436470d31e1",
+        "android_client_info": {
+          "package_name": "com.example.upcycle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOYoj0eFXfeadb00CYOZ9_rvdEK30SAbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
